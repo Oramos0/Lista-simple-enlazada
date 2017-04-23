@@ -1,0 +1,39 @@
+E:\4J\Estructura de datos\Inventarios\Inventarios\bin\Debug\Inventarios.exe.config
+F:\4J\Estructura de datos\Inventarios\Inventarios\bin\Debug\Inventarios.exe.config
+F:\4J\Estructura de datos\Inventarios\Inventarios\bin\Debug\Inventarios.exe
+F:\4J\Estructura de datos\Inventarios\Inventarios\bin\Debug\Inventarios.pdb
+F:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.csprojResolveAssemblyReference.cache
+F:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.Form1.resources
+F:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+F:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.Cache
+F:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.exe
+F:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.pdb
+E:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.exe
+E:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.pdb
+E:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.csprojResolveAssemblyReference.cache
+E:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.Form1.resources
+E:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+E:\4J\Estructura de datos\Inventarios\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.Cache
+E:\4J\Estructura de datos\Inventarios\Inventarios\bin\Debug\Inventarios.exe
+E:\4J\Estructura de datos\Inventarios\Inventarios\bin\Debug\Inventarios.pdb
+E:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\bin\Debug\Inventarios.exe.config
+E:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.exe
+E:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.pdb
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\bin\Debug\Inventarios.exe.config
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.exe
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.pdb
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.csprojResolveAssemblyReference.cache
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.Form1.resources
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.Cache
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\bin\Debug\Inventarios.exe
+F:\4J\Estructura de datos\Inventarios - referenciado\Inventarios\bin\Debug\Inventarios.pdb
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\bin\Debug\Inventarios.exe.config
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\obj\Debug\Inventarios.exe
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\obj\Debug\Inventarios.pdb
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\bin\Debug\Inventarios.exe
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\bin\Debug\Inventarios.pdb
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\obj\Debug\Inventarios.csprojResolveAssemblyReference.cache
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\obj\Debug\Inventarios.Form1.resources
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\obj\Debug\Inventarios.Properties.Resources.resources
+F:\4J\Estructura de datos\Inventarios - referenciado2Clases\Inventarios\obj\Debug\Inventarios.csproj.GenerateResource.Cache
